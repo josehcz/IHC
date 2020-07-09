@@ -25,10 +25,12 @@ Desenvolvimento do motor
 # 2ª Quinzena de maio
 
 Desenvolvimento dos acessórios
+
 Desenvolvimento da carenagem
 
 # 1 ª Quinzena de junho
 Desenvolvimento das rodas
+
 Houve modificações das rodas
 
 # 2ª Quinzena de junho
