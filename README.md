@@ -18,7 +18,7 @@ O trio de alunos definiu a criação de uma realidade virtual que denota a monta
 Ferramentas
 O Blender foi a definido como ferramente pra desenvolvimento e modelagem das peças;
 A-frame foi utilizado para o desenvolvimento do ambiente 3D
-Codepen foi utilizado para o desenvolvimento do código dos ambientes 3D, utilizando as linguagens de marcação HTML e CSS e a linguagem de programação JS
+Codepen foi utilizado para o desenvolvimento do código dos ambientes 3D, utilizando as linguagens de marcação HTML e a linguagem de programação JS
 
 Desenvolvimento do motor
 
@@ -38,3 +38,5 @@ Conclusão do Bugatti
 
 # Observação:
 A equipe Observou que o browser Firefox é melhor que o Chrome para Webgl. Pois no Chrome a aplicação chegou a travar algumas vezes
+
+Link para o porjeto: https://codepen.io/marcospsdonizete/pen/jObvdmE
